@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @LeonardoJkFonseca
+- 👋 ola, sou Leonardo e sou estudante de programação.
